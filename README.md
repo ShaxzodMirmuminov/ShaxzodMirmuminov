@@ -6,7 +6,7 @@ I'm a **Python Developer** specializing in **Back-End Development**.
 
 ## Get in Touch
 - **Telegram**: [telegram_link](https://t.me/Shaxzod_fighter)
-- **LinkedIn**: [linkedin_link](https://linkedin.com/in/shaxzod-mirmuminov-a24001273)
+- **LinkedIn**: [linkedin_link](https://linkedin.com/in/shaxzod-mirmuminov)
 
 ## Skills
 - Python
